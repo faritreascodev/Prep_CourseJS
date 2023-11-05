@@ -1,2 +1,3 @@
 # Prep_CourseJS
-Repositorio creado con el fin de mostrar los avances en el Prep. Course Henry de Javascript...
+Este es mi primer repositorio.
+Avance completado! GIT
